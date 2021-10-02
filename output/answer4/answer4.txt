@@ -1,6 +1,6 @@
 Question 4:-
 Question :: How would you rate the difficult of the assessment on a scale of 1 to 10, 1 being very simple and 10 being very hard?
---->  I would like to rate 1 for this assessment.
+--->  I would like to rate 6 for the question 1 (because of population column) and for the rest I would give them rate 1.
 Question ::Do you want another assessment which more focused on Data structures and algorithms?
 ---> I never say no to the work ,if you have any another assessment i would like to do it.
  
